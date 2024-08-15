@@ -3,6 +3,18 @@ form{
     background-color: aliceblue;
 }
 
+.result{
+    padding: 12px;
+    background-color: aliceblue;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #c2bfbf; /* Warna garis */
+    margin: 20px 0; /* Jarak atas dan bawah */
+    width: 100%; /* Panjang garis */
+}
+
 main{
     display: flex;
 }
